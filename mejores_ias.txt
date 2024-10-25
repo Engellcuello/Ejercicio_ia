@@ -1,0 +1,8 @@
+1. ChatGPT
+Desarrollada por OpenAI, es una IA conversacional avanzada que puede ayudar con tareas de redacción, programación y generar ideas en distintos ámbitos.
+
+2. Midjourney
+Especializada en la creación de imágenes a partir de descripciones textuales, es popular en la creación de arte digital único y realista.
+
+3. DALL-E
+Otra IA de OpenAI, que convierte texto en imágenes con un gran nivel de detalle y creatividad, ideal para diseñadores y creadores de contenido.
