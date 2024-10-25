@@ -6,3 +6,12 @@ Especializada en la creación de imágenes a partir de descripciones textuales, 
 
 3. DALL-E
 Otra IA de OpenAI, que convierte texto en imágenes con un gran nivel de detalle y creatividad, ideal para diseñadores y creadores de contenido.
+
+4. Stable Diffusion
+Con tecnología de difusión latente, genera imágenes detalladas y permite mucha personalización, especialmente útil en diseño gráfico.
+
+5. Jasper
+Jasper AI se centra en marketing y redacción publicitaria. Su capacidad para generar contenido de calidad lo convierte en una excelente herramienta para creadores de contenido y equipos de marketing.
+
+6. DeepL
+Considerada una de las mejores IA de traducción, DeepL supera a muchas alternativas en términos de precisión y naturalidad, facilitando la comunicación en varios idiomas.
